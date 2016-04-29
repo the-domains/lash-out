@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lash Out]]></title>
         <description><![CDATA[Lash Out]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lash-out/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 01:55:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 02:16:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lash-out/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>hello world</p>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0370bfba-e880-44ff-b34c-591879448d24.jpg">]]></description>
+            <link>https://thegrid.ai/lash-out/hello-world/index.html</link>
             <guid isPermaLink="false">c2bd2095-7ce0-4f83-8419-2066ca93cba0</guid>
-            <pubDate>Fri, 29 Apr 2016 01:55:47 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2016 02:15:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

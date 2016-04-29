@@ -1,0 +1,28 @@
+name: Lash Out
+favicon: null
+layout_spectrum: 0.4120792211033404
+typography_spectrum: 0.9214850582648069
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3665928295813501
+  lightness: 0.9146199377719313
+  saturation: 0.5519022140651941
+  rhythmicContrast: 0.9210276464000344
+purpose: []
